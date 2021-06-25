@@ -6,6 +6,7 @@ pipeline {
         maven "maven_3_6_3"
     }
 
+    // update
     stages {
         stage('Build') {
             steps {
