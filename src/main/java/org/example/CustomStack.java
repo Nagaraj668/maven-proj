@@ -40,7 +40,6 @@ public class CustomStack extends Stack {
         return super.push(numInserted);
     }
 
-    //test
 
     @Override
     public synchronized Object pop() {
